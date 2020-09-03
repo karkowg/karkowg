@@ -1,16 +1,26 @@
-### Hi there 👋
-
-<!--
-**karkowg/karkowg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+export default {
+    name: "Gustavo Karkow",
+    created_at: "1993-08-28",
+    locales: ["🇧🇷", "🇺🇸", "🇫🇷"],
+    social: {
+        instagram: "@karkowg",
+        twitter: "@karkowg",
+    },
+    craft: "Software Development",
+    "i/o": [".php", ".blade.php", ".js", ".vue", ".html", ".css", ".sql"],
+    professional: {
+        current: {
+            position: "Senior Full Stack Developer",
+            at: "Digicast",
+            projects: [
+                {
+                    name: "icastGo",
+                    url: "https://icastgo.com/",
+                    keywords: ["webcast", "corporate communication"],
+                },
+            ],
+        },
+    },
+}
+```
