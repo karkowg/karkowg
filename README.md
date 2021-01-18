@@ -4,7 +4,6 @@ export default {
     created_at: "1993-08-28",
     locales: ["🇧🇷", "🇺🇸", "🇫🇷"],
     social: {
-        instagram: "@karkowg",
         twitter: "@karkowg",
     },
     craft: "Software Development",
