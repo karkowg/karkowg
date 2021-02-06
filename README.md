@@ -10,7 +10,7 @@ export default {
     "i/o": [".php", ".blade.php", ".js", ".vue", ".html", ".css", ".sql"],
     professional: {
         current: {
-            position: "Senior Full Stack Developer",
+            position: "Senior Full-stack Developer",
             at: "Digicast",
             projects: [
                 {
