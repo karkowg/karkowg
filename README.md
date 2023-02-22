@@ -5,18 +5,19 @@ export default {
     locales: ["🇧🇷", "🇺🇸", "🇫🇷"],
     social: {
         twitter: "@karkowg",
+        linkedin: "karkowg",
     },
     craft: "Software Development",
     "i/o": [".php", ".blade.php", ".js", ".vue", ".html", ".css", ".sql"],
     professional: {
         current: {
-            position: "Senior Full-stack Developer",
+            position: "Staff Engineer",
             at: "Digicast",
             projects: [
                 {
                     name: "icastGo",
                     url: "https://icastgo.com/",
-                    keywords: ["webcast", "corporate communication"],
+                    keywords: ["webcast", "live events", "corporate communication"],
                 },
             ],
         },
