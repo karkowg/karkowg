@@ -7,12 +7,10 @@ export default {
         twitter: "@karkowg",
         linkedin: "karkowg",
     },
-    craft: "Software Development",
-    "i/o": [".php", ".blade.php", ".js", ".vue", ".html", ".css", ".sql"],
-    professional: {
+    work: {
         current: {
-            position: "Staff Engineer",
-            at: "Digicast",
+            position: "Staff Software Engineer",
+            company: "Digicast",
             projects: [
                 {
                     name: "icastGo",
