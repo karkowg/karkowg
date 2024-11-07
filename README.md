@@ -2,7 +2,7 @@
 export default {
     name: "Gustavo Karkow",
     created_at: "1993-08-28",
-    locales: ["🇧🇷", "🇺🇸", "🇫🇷"],
+    locales: ["pt-BR", "en-US", "fr-CA"],
     social: {
         bluesky: "@gksh.dev",
         twitter: "@karkowg",
