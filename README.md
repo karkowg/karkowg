@@ -4,6 +4,7 @@ export default {
     created_at: "1993-08-28",
     locales: ["🇧🇷", "🇺🇸", "🇫🇷"],
     social: {
+        bluesky: "@gksh.dev",
         twitter: "@karkowg",
         linkedin: "karkowg",
     },
@@ -14,7 +15,7 @@ export default {
             projects: [
                 {
                     name: "icastGo",
-                    url: "https://icastgo.com/",
+                    url: "https://app.icastgo.com/",
                     keywords: ["webcast", "live events", "corporate communication"],
                 },
             ],
